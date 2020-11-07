@@ -7,6 +7,13 @@ Estrutura e Estilização de Sidebar com React
 - React Icons
 - CSS
 
+<h1 align="center">
+    <img alt="home" src="./src/assets/home.png" width="600px" height="400px" />
+</h1>
+<h1 align="center">
+    <img alt="sidebar-ativa" src="./src/assets/sidebarAtiva.png" width="600px" height="400px" />
+</h1>
+
 
 ### `yarn start`
 
